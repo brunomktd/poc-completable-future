@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+api:
+  name:
+    web1: web1
+    web2: web2
+    web3: web3
+    web4: web4
+  url:
+    web1: "http://localhost:8081"
+    web2: "http://localhost:8082"
+    web3: "http://localhost:8083"
+    web4: "http://localhost:8084"
